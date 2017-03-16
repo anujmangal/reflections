@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+.git folder is created when you create a reporitory. WE need to do it because the system starts tracking the files stored in that folder and let us know if we have committed the changes or not
