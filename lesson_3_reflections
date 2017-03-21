@@ -11,3 +11,13 @@ branches - create another stream of work
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 to compare and review the changes that were added to GitHub branch so that appropriate merges are possible
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+without using gitHub, we will use emails to share code
+Difficulties : manually identify and merging all the code;
+Easy : can resolve very small conflicts easily
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When we are working on a separate logical project / functiaonlity of its own
+making changes to a separate branch keeps the code intact in the separate branch and easier to manage as a whole
+making changes to the master, we don't have to keep our branch up-to-date with the master
